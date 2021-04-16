@@ -22,4 +22,4 @@ Android app which can show latest news of various categories and of different co
 ### France
 ### UK
 
-News API used can be accessed from [here](https://saurav.tech/NewsAPI/).
+## News API used can be accessed from [here](https://saurav.tech/NewsAPI/).
